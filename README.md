@@ -19,6 +19,7 @@
   
 ## 🚀 Tentang Saya
 </div>
+
 ```typescript
 const developer = {
     name: "Fachri Akbar Kutubi",
