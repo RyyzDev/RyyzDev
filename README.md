@@ -15,9 +15,10 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🚀 Tentang Saya
-
+</div>
 ```typescript
 const developer = {
     name: "Fachri Akbar Kutubi",
@@ -40,9 +41,10 @@ const developer = {
 ```
 
 ---
-
+<div align="center">
+  
 ## 💻 Tech Stack
-
+</div>
 <div align="center">
 
 ### Frontend
@@ -71,9 +73,10 @@ const developer = {
 </div>
 
 ---
-
+<div align="center">
+  
 ## 📊 GitHub Statistics
-
+</div>
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyyzDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -88,9 +91,10 @@ const developer = {
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🏆 GitHub Trophies
-
+</div>
 <div align="center">
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=RyyzDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
@@ -98,9 +102,10 @@ const developer = {
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🔥 Proyek Terbaru
-
+</div>
 
 <div align="center">
 
@@ -110,9 +115,10 @@ const developer = {
 </div>
 
 ---
-
+<div align="center">
+  
 ## 📈 Contribution Graph
-
+</div>
 <div align="center">
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyyzDev&theme=tokyo-night&hide_border=true)
@@ -120,9 +126,9 @@ const developer = {
 </div>
 
 ---
-
+<div align="center">
 ## 💡 Quote Hari Ini
-
+</div>
 <div align="center">
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -130,9 +136,10 @@ const developer = {
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🤝 Mari Terhubung
-
+</div>
 <div align="center">
   
 **"Learn, Connect, Inspire"** ✨
@@ -148,7 +155,7 @@ Saya selalu terbuka untuk kolaborasi proyek menarik atau sekadar ngobrol tentang
 
 <div align="center">
   
-  ### ⭐ From [RyyzDev](https://github.com/RyyzDev)
+  ### ⭐[RyyzDev](https://github.com/RyyzDev)
   
   **Jika Anda suka proyek saya, jangan lupa kasih bintang!** 🌟
   
