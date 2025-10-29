@@ -1,7 +1,7 @@
 # 👋 Halo, Saya Fachri Akbar Kutubi
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&duration=3000&pause=500&color=5DA1F7&center=true&width=435&lines=Back+End+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&duration=3000&pause=500&color=5DA1F7&center=true&width=435&lines=Back+End+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fachri-akbar-kutubi-b4b89a310/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://fachryyz.com)
