@@ -128,6 +128,7 @@ const developer = {
 
 ---
 <div align="center">
+  
 ## 💡 Quote Hari Ini
 </div>
 <div align="center">
