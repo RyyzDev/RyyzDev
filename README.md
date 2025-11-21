@@ -77,14 +77,6 @@ const developer = {
 <div align="center">
   
 ## 📊 GitHub Statistics
-</div>
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyyzDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyyzDev&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyyzDev&theme=tokyonight)
@@ -95,12 +87,12 @@ const developer = {
 <div align="center">
   
 ## 🏆 GitHub Trophies
-</div>
-<div align="center">
+
+<!-- <div align="center">
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=RyyzDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
   
-</div>
+</div> -->
 
 ---
 <div align="center">
@@ -109,11 +101,18 @@ const developer = {
 </div>
 
 <div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=booking-pemakaman-uas&theme=tokyonight)](https://github.com/RyyzDev/booking-pemakaman-uas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=sistemkasir-laravel&theme=tokyonight)](https://github.com/RyyzDev/sistemkasir-laravel)
-
 
 </div>
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=sistemkasir-laravel&theme=tokyonight)](https://github.com/RyyzDev/sistemkasir-laravel)
+
+</div>
+
+
 
 ---
 <div align="center">
