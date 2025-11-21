@@ -109,7 +109,7 @@ const developer = {
 </div>
 
 <div align="center">
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=booking-pemakaman-uas&theme=tokyonight)](https://github.com/RyyzDev/booking-pemakaman-uas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=sistemkasir-laravel&theme=tokyonight)](https://github.com/RyyzDev/sistemkasir-laravel)
 
 
