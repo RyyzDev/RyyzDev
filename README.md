@@ -74,9 +74,11 @@ const developer = {
 </div>
 
 ---
-<div align="center">
+<div align="center>
   
 ## 📊 GitHub Statistics
+
+</div>
 
 <div align="center">
   
@@ -88,6 +90,8 @@ const developer = {
 <div align="center">
   
 ## 🏆 GitHub Trophies
+
+</div>
 
 <div align="center">
   
