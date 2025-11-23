@@ -80,7 +80,7 @@ const developer = {
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyyzDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RyyzDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   
 </div>
 
@@ -89,11 +89,11 @@ const developer = {
   
 ## 🏆 GitHub Trophies
 
-<!-- <div align="center">
+<div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=RyyzDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=RyyzDev&theme=tokyonight)
   
-</div> -->
+</div>
 
 ---
 <div align="center">
