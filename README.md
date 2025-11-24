@@ -4,12 +4,27 @@
 </div>
 
 <div align="center">
+  
   <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&duration=3000&pause=500&color=5DA1F7&center=true&width=435&lines=Back+End+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
+<div align="center">
+  
+## 🤝 Mari Terhubung
+</div>
+<div align="center">
+  
+**"Learn, Connect, Inspire"** ✨
+
+Saya selalu terbuka untuk kolaborasi proyek menarik atau sekadar ngobrol tentang teknologi!
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=RyyzDev&color=blueviolet&style=for-the-badge)
+
+</div>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fachri-akbar-kutubi-b4b89a310/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://RyyzDev.github.io/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fachryyz)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fachriakbarkutubi@gmail.com)
   
 </div>
@@ -130,22 +145,7 @@ const developer = {
 </div>
 
 ---
-<div align="center">
-  
-## 🤝 Mari Terhubung
-</div>
-<div align="center">
-  
-**"Learn, Connect, Inspire"** ✨
 
-Saya selalu terbuka untuk kolaborasi proyek menarik atau sekadar ngobrol tentang teknologi!
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=RyyzDev&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
 
 <div align="center">
   
