@@ -90,39 +90,7 @@ const developer = {
 
 ---
 
-<div align="center">
-  
-## 🏆 GitHub Trophies
 
-</div>
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=RyyzDev&theme=tokyonight)
-  
-</div>
-
----
-<div align="center">
-  
-## 🔥 Proyek Terbaru
-</div>
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=booking-pemakaman-uas&theme=tokyonight)](https://github.com/RyyzDev/booking-pemakaman-uas)
-
-</div>
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyyzDev&repo=sistemkasir-laravel&theme=tokyonight)](https://github.com/RyyzDev/sistemkasir-laravel)
-
-</div>
-
-
-
----
 <div align="center">
   
 ## 📈 Contribution Graph
