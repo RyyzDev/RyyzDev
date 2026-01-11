@@ -44,15 +44,15 @@ const developer = {
     technologies: {
         backEnd: {
             js: ["Node.js", "ExpressJS", "NextJS"],
-            python: ["Django", "FastAPI"],
-            php: ["Laravel", "Guzzle"]
+            python: ["Django"],
+            php: ["Laravel", "CodeIgniter"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "Figma", "Postman", "Sublime Text"]
+        devOps: ["Docker", "Kubernetes", Github Actions, Jenkins],
+        tools: ["Git", "Figma", "Postman", "Sublime Text", "Arch Linux]
     },
-    currentFocus: "Building Fundamental and Learning Competitive Programing",
-    funFact: "Suka Mie Ayam😅"
+    currentFocus: "Building Fundamental",
+    funFact: "Suka Mie Ayam"
 };
 ```
 
