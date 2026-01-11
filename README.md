@@ -48,7 +48,7 @@ const developer = {
             php: ["Laravel", "CodeIgniter"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "SQLite"],
-        devOps: ["Docker", "Kubernetes", Github Actions, Jenkins],
+        devOps: ["Docker", "Kubernetes", "Github Actions", "Jenkins"],
         tools: ["Git", "Figma", "Postman", "Sublime Text", "Arch Linux]
     },
     currentFocus: "Building Fundamental",
