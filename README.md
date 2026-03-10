@@ -1,6 +1,8 @@
 *Building scalable systems and robust technical expertise.*
 > **Learn, Connect, Inspire**
-<img align="right" height="300" width="375" alt="Github metrics" src="https://github.com/RyyzDev/RyyzDev/github-metrics.svg?raw=true"/>
+
+<img align="right" height="300" width="375" alt="Github metrics" src="https://github.com/RyyzDev/RyyzDev/github-metrics.svg"/>
+
 ---
 
 ### Technical Expertise
