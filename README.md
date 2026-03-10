@@ -1,31 +1,37 @@
-# 👋 Fachri Akbar Kutubi
-**Back End Developer | Indonesia 🇮🇩**
+# Fachri Akbar Kutubi
+**Back End Developer | Indonesia**
 
 *Building scalable systems and robust technical expertise.*
 
 ---
 
-### 🚀 Tentang Saya
-Seorang **Back-End Developer** yang berfokus pada efisiensi sistem dan arsitektur database. Berpengalaman dalam ekosistem JavaScript, PHP, dan Python. Saat ini berfokus pada penguatan arsitektur *high-performance*.
+### Keahlian Teknis
 
-### 🛠️ Keahlian Teknis
+![JavaScript](https://img.shields.io)
+![Node.js](https://img.shields.io)
+![Express.js](https://img.shields.io)
+![Next.js](https://img.shields.io)
+![PHP](https://img.shields.io)
+![Laravel](https://img.shields.io)
+![Python](https://img.shields.io)
+![Django](https://img.shields.io)
 
-| Kategori | Teknologi |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), PHP, Python, C++ |
-| **Back-End** | Node.js (Express, Next.js), Laravel, Django |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, SQLite |
-| **DevOps** | Docker, Kubernetes, Jenkins, GitHub Actions |
-| **Tools/OS** | Git, Arch Linux, Postman |
-
-### 📈 Statistik & Aktivitas
-![Aktivitas GitHub](https://github-readme-stats.vercel.app)
+![PostgreSQL](https://img.shields.io)
+![MongoDB](https://img.shields.io)
+![Redis](https://img.shields.io)
+![Docker](https://img.shields.io)
+![Kubernetes](https://img.shields.io)
+![GitHub Actions](https://img.shields.io)
+![Arch Linux](https://img.shields.io)
 
 ---
 
-### 🤝 Mari Terhubung
-Terbuka untuk kolaborasi proyek atau diskusi teknologi.
+### Media Sosial
 
-[LinkedIn](https://linkedin.com/fachri-akbar-kutubi) • [Instagram](https://instagram.com/fachryyz) • [Email](mailto:fachriakbarkutubi@gmail.com)
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
+[![Instagram](https://img.shields.io)](https://instagram.com)
+[![Email](https://img.shields.io)](mailto:email@anda.com)
 
-> *"Learn, Connect, Inspire."* ✨
+---
+
+> **Learn, Connect, Inspire**
