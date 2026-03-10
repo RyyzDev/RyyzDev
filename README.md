@@ -21,8 +21,8 @@
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/Github%Actions-black?style=for-the-badge&logo=githubactions)
-![Arch Linux](https://img.shields.io/badge/Arch%Linux-black?style=for-the-badge&logo=archlinux)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-black?style=for-the-badge&logo=githubactions)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux)
 
 ---
 
