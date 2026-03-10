@@ -23,3 +23,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://linkedin.com/fachri-akbar-kutubi)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/fachryyz)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:fachriakbarkutubi@gmail.com)
+
+![Metrics](https://metrics.lecoq.io/ryyzdev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FJakarta)
