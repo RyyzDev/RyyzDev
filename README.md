@@ -15,7 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=for-the-batdge&logo=nginx)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=for-the-badge&logo=nginx)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux)
 
 ---
