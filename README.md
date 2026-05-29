@@ -8,14 +8,14 @@
 
 ### Technical Expertise
 
-![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React.js](https://img.shields.io/badge/-ReactJs-black?style=for-the-badge&logo=react)
 ![Express.js](https://img.shields.io/badge/Express.JS-black?style=for-the-badge&logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=for-the-batdge&logo=nginx)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?style=for-the-badge&logo=archlinux)
 
 ---
