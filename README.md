@@ -1,6 +1,7 @@
 <img align="right" height="300" width="375" alt="Github metrics" src="https://github.com/RyyzDev/RyyzDev/blob/main/github-metrics.svg?raw=true"/>
 
 *Building scalable systems and robust technical expertise*
+*Currently focusing on backend architecture, latency optimization, and cloud infrastructure*
 
 > **Learn, Connect, Inspire**
 
