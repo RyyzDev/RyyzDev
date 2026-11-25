@@ -1,5 +1,7 @@
 <img align="right" height="300" width="385" alt="Github metrics" src="https://github.com/RyyzDev/RyyzDev/blob/main/github-metrics.svg?raw=true"/>
 
+![](https://komarev.com/ghpvc/?username=RyyzDev&style=for-the-badge&color=000000&label=Visitor&abbreviated=true)
+
 *Building scalable systems and robust technical expertise*
 
 > **Learn, Connect, Inspire**
